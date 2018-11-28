@@ -25,7 +25,7 @@ Seaborn
 3. Run Script
 
 ### Results
-The results were displayed as a series of correlation matricies pertaining to the number of rides in a given day and the amount of percipitation that occured using pearson correlation analysis. They results are as follows
+The results were displayed as a series of correlation matricies pertaining to the number of rides in a given day and the amount of percipitation that occured using pearson correlation analysis. They results are as follows for the years 2013-2014 only.
 
 ```
 Overall Correlation coefficient: 0.063061
