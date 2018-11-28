@@ -1,5 +1,5 @@
 # NYC-Taxi-Data-Analysis
-Analysis of NYC Green Taxi and Meteorological Data Analysis to find correlation between percipitation and ride volume
+Analysis of NYC Green Taxi and Meteorological Data Analysis to find correlation between precipitation and ride volume
 
 The analysis is broken out by overall correlation and seasonal
 
