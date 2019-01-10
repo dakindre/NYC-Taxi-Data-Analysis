@@ -31,15 +31,15 @@ Cloud Based Processing using AWS
 
 8. Go to Athena and run a few queries (coming soon) to ensure the data looks correct. 
 
-9. Download the JDBC driver(https://docs.aws.amazon.com/athena/latest/ug/connect-with-jdbc.html) for Athena on your local machine in the Tableau directory. 
+9. Download the JDBC driver (https://docs.aws.amazon.com/athena/latest/ug/connect-with-jdbc.html) for Athena on your local machine in the Tableau directory. 
 
-10. Here is a good article for setting this up and getting the data loaded into Tableau here(https://www.tableau.com/about/blog/2017/5/connect-your-s3-data-amazon-athena-connector-tableau-103-71105).
+10. Here is a good article for setting this up and getting the data loaded into Tableau here (https://www.tableau.com/about/blog/2017/5/connect-your-s3-data-amazon-athena-connector-tableau-103-71105).
 
 11. Actual Report coming soon
 
 
 ### Local
-1. Download Green Taxi Data from site(http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) onto your local machine. For the example provided it looks only at taxi data from 2013-2014. 
+1. Download Green Taxi Data from site (http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) onto your local machine. For the example provided it looks only at taxi data from 2013-2014. 
 
 2. Download the script `NYCTaxiDataProcessing.ipynb` from the folder scripts/Local to your machine
 
