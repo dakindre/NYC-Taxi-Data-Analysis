@@ -1,7 +1,15 @@
 # NYC-Taxi-Data-Analysis
-Analysis of NYC Green Taxi and Meteorological Data Analysis to find correlation between precipitation and ride volume
 
-The analysis is broken out by overall correlation and seasonal
+## Objective
+Reveal insights into the relationship between taxi ride volumes and meteorological data by day. The project examines in particular the number of rides from Manhattan Borough to NYC Airports and their correlation to the levels of precipitation on that given day.
+
+## Approach
+Two approaches were taken in order to process the data. The goal of this was to reveal the optimized approach. The two approaches are listed below and a diagram of the AWS architecture is provided. 
+```
+Local Processing of data using Dask
+Cloud Based Processing using AWS
+```
+![alt text](/Images/AWS_Data_Flow.png)
 
 ### Dependencies
 ```
